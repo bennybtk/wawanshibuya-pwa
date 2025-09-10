@@ -10,11 +10,6 @@
   "theme_color": "#ff0000",
   "icons": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/bennybtk/wawanshibuya-pwa/favicon.ico",
-      "sizes": "48x48",
-      "type": "image/x-icon"
-    },
-    {
       "src": "https://cdn.jsdelivr.net/gh/bennybtk/wawanshibuya-pwa/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
@@ -26,3 +21,4 @@
     }
   ]
 }
+

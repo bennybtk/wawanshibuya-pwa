@@ -1,30 +1,28 @@
 {
   "name": "Wawan Shibuya",
   "short_name": "WawanShibuya",
-  "description": "Streaming & Download Anime Gratis",
+  "description": "Project Management",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#ff0000",
-"icons": [
-  {
-    "src": "https://raw.githubusercontent.com/bennybtk/wawanshibuya-pwa/main/favicon.ico",
-    "sizes": "48x48",
-    "type": "image/x-icon"
-  },
-  {
-    "src": "https://raw.githubusercontent.com/bennybtk/wawanshibuya-pwa/main/web-app-manifest-192x192.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  },
-  {
-    "src": "https://raw.githubusercontent.com/bennybtk/wawanshibuya-pwa/main/web-app-manifest-512x512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }
-]
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/bennybtk/wawanshibuya-pwa/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/bennybtk/wawanshibuya-pwa/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/bennybtk/wawanshibuya-pwa/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
-
-

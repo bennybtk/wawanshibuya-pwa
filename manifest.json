@@ -1,6 +1,6 @@
 {
   "name": "Wawan Shibuya",
-  "short_name": "WawanShibuya",
+  "short_name": "Wawan Shibuya",
   "description": "Project Management",
   "start_url": "/",
   "scope": "/",
@@ -21,4 +21,5 @@
     }
   ]
 }
+
 
